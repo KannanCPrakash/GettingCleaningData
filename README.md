@@ -1,4 +1,4 @@
-# Assignment for Getting and CleaningData
+# Assignment for Getting and Cleaning Data
 
 This script file (run_analysis.R) has two functions to run the analysis on the provided files
 
